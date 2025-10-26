@@ -17,10 +17,15 @@ Order ID, Product Category, Region, Sales, Quantity, Profit, and Customer Segmen
 Purpose: To analyze sales distribution, profit trends, and top-performing categories and regions.
 
 🛠️ Tools & Technologies
+
 Category	Tools / Technologies
+
 Programming & Analysis	Python (Pandas, NumPy, Matplotlib, Seaborn)
+
 Visualization	Power BI
+
 Presentation	Gamma
+
 Environment	Jupyter Notebook / VS Code
 
 🪜 Project Steps
